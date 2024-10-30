@@ -139,5 +139,7 @@ FROM [Customer Data]ing SQLQuery3.sql…]()
 ```POWERBI
 Total Sales = SUM('Sales'[SalesAmount])
 ```
+### Data Visualization
+
 
 Subscription Service Customer Analysis
