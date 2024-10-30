@@ -136,3 +136,8 @@ SELECT
     COUNT(CASE WHEN canceled IS NOT NULL THEN 1 END) AS canceled_subscriptions
 FROM [Customer Data]ing SQLQuery3.sql…]()
 
+```POWERBI
+Total Sales = SUM('Sales'[SalesAmount])
+```
+
+Subscription Service Customer Analysis
