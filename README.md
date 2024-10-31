@@ -139,8 +139,9 @@ FROM [Customer Data]ing SQLQuery3.sql…]()
 
 ```
 ### Data Visualization
+![Customer Data Visualization_page-0001](https://github.com/user-attachments/assets/b669169e-5c9e-477a-8a49-d22077b46134)
 
-[Customer Data Visualization.pdf](https://github.com/user-attachments/files/17587759/Customer.Data.Visualization.pdf)
+
 
 Subscription Service Customer Analysis
 
