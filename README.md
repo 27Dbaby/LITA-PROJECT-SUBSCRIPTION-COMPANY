@@ -140,6 +140,7 @@ FROM [Customer Data]ing SQLQuery3.sql…]()
 ```
 ### Data Visualization
 
+[Customer Data Visualization.pdf](https://github.com/user-attachments/files/17587759/Customer.Data.Visualization.pdf)
 
 Subscription Service Customer Analysis
 
