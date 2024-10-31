@@ -62,7 +62,7 @@ Here are the steps taken to complete this project:
 
 * Select "Remove Duplicates" to eliminate any duplicate entries.
 
-2.Calculate Total Duration and Average Duration:
+2. **Calculate Total Duration and Average Duration:**
 
 * Formula for Total Duration: =(SubscriptionEnd - SubscriptionStart)
 
