@@ -141,13 +141,16 @@ FROM [Customer Data]ing SQLQuery3.sql…]()
 ### Data Visualization
 ![Customer Data Visualization_page-0001](https://github.com/user-attachments/assets/b669169e-5c9e-477a-8a49-d22077b46134)
 
+### **Subscription Service Customer Analysis**
+XYZ Subscription Company served a total of 20 customers, generating a total revenue of 68 million across four regions. Here is the breakdown:
 
+* **East:** Subscribed to Basic, generating 17 million in revenue from 5 customers over a period of 1 year and 8 months.
 
-Subscription Service Customer Analysis
+* **North:** Subscribed to Basic, generating 17 million in revenue from 5 customers over a period of 1 year and 8 months.
 
+* **South:** Subscribed to Premium, generating 17 million in revenue from 5 customers over a period of 1 year and 8 months.
 
-
-
+* **West:** Subscribed to Standard, generating 17 million in revenue from 5 customers over a period of 1 year and 8 months.
 
 ```POWERBI
-Total Sales = SUM('Sales'[SalesAmount])
+SubscriptionDuration = DATEDIFF([start_date], COALESCE([cancel_date], TODAY()), DAY)
