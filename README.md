@@ -102,4 +102,3 @@ XYZ Subscription Company served a total of 20 customers, generating a total reve
 * **South:** Subscribed to Premium, generating 17 million in revenue from 5 customers over a period of 1 year and 8 months.
 
 * **West:** Subscribed to Standard, generating 17 million in revenue from 5 customers over a period of 1 year and 8 months.
-
