@@ -85,11 +85,11 @@ FROM [Customer Data]
 GROUP BY Region;
 ```
 
-### Data Visualization
-
 ```DAX FUNCTION
 SubscriptionDuration = DATEDIFF([start_date], COALESCE([cancel_date], TODAY()), DAY)
 ```
+
+### Data Visualization
 ![Customer Data Visualization_page-0001](https://github.com/user-attachments/assets/b669169e-5c9e-477a-8a49-d22077b46134)
 
 ### **Subscription Service Customer Analysis**
